@@ -1,7 +1,7 @@
 Startpage
 ========
 
-<h3>Live Demo:</h3> <a href="http://BeakBryno7.github.io/startpage/">Demo</a>
+<h3>Live Demo: <a href="http://BeakBryno7.github.io/startpage/">Demo</a> </h3>
 
 
 
