@@ -1,68 +1,69 @@
-@font-face
-{
+@font-face {
   font-family:'Iosevka';
   src: url('Iosevka.ttf');
 }
-body{
+
+body {
   font-family: 'Iosevka', monospace;
-  font-size:20px;
-  background-color:#0F0F12;
+  font-size: 20px;
+  background-color: #0F0F12;
   background-image: url("img/");
   background-repeat: repeat;
-  width:672px;
-  height:319px;
+  width: 670px;
+  height: 320px;
   position: absolute;
   top: 0px;
   bottom:100px;
   left: 0px;
   right: 0px;
   margin: auto;
-
 }
 
 h1 {
-  font-weight:normal;
+  font-weight: normal;
   color: #FEFFFA;
-  position: absolute;
-  left: 140px;
+  position: relative;
+  text-align: center;
+  horizontal-align: middle;
 }
 
-.flair{
+.flair {
   color: #0972D6;
 }
 
 .main {
-  display: block;
+  display: inline-block;
   border-style: solid;
   border-width: 1px;
   border-color: #232328;
-  position: absolute;
+  position: relative;
   top: -100px;
-  width: 1072px;
+  width: 770px;
   height: 600px;
   left: -200px;
   right: 0px;
   margin: auto;
-  background-color:#18181D;
-  text-align:center;
+  background-color: #18181D;
+  text-align: center;
 }
-
 
 .image-wrapper {
   border-style: solid;
   border-width: 1px;
   border-color: #232328;
   position: absolute;
+  top: -1px;
   width: 300px;
   height: 600px;
   left: 770px;
-  background-color:#18181D;
+  background-color: #18181D;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 img {
+  top: -1px;
   width: 300px;
   height: 600px;
 }
@@ -85,7 +86,7 @@ img {
   display: inline-block;
 }
 
-.prev:hover, .next:hover {
+.next:hover {
   background-color: #AARRGGBB;
 }
 
@@ -106,8 +107,8 @@ img {
   to {opacity: 1}
 }
 
-.time {
-  color:#FFFFFF;
+.codes {
+  color: #FFFFFF;
   font-family: Iosevka, monospace;
   font-size: 18px;
   position: absolute;
@@ -115,28 +116,28 @@ img {
   width: auto;
   height: auto;
   left: 12px;
-
 }
+
 li {
   margin: 10px 0;
 }
 
 nav {
+  display: inline-block;
+  vertical-align: middle;
+  horizontal-align: middle;
   color: #BFBFBF;
   font-size: 20px;
   text-align: center;
-  padding-left:125px;
-  padding-right:125px;
-  top: 200px;
-  width: auto;
-  left: -10px;
-  right: auto;
-  margin: 0 0 5px 0;
-  position: absolute;
+  left= 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
 }
 
 ul {
   display: table-cell;
+  horizontal-align: middle;
   text-align: center;
   height: 100%;
   border-color: #232328;
@@ -146,7 +147,6 @@ ul {
   transition: all 0.8s;
   cursor: default;
   list-style-type: none;
-
 }
 
 ul:last-of-type {
@@ -158,9 +158,8 @@ ul:hover {
 }
 
 ul > li:first-of-type{
-  padding-top: 7px;
+  padding-top: 5px;
 }
-
 
 ul > li > a {
   text-decoration:none;
@@ -186,10 +185,4 @@ ul[class=red] > li > a:hover {
 ul[class=yellow] > li > a:hover {
   color: #edd934;
   transition: all 0.5s;
-}
-
-p {
-  font-size: 10px;
-  padding : 10px;
-  color: #FFFFFF;
 }
