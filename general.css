@@ -4,24 +4,25 @@
 }
 
 body {
-  font-family: 'Iosevka', monospace;
-  font-size: 20px;
-  background-color: #0F0F12;
-  background-image: url("img/");
-  background-repeat: repeat;
-  width: 670px;
-  height: 320px;
-  position: absolute;
-  top: 0px;
-  bottom:100px;
-  left: 0px;
-  right: 0px;
-  margin: auto;
+    font-family: 'Iosevka', monospace;
+    font-size: 20px;
+    background-color: #0F0F12;
+    background-image: url(https://i.imgur.com/CjTkIjs.png) !important;
+    background-repeat: repeat;
+    background-size: auto;
+    width: 670px;
+    height: 320px;
+    position: absolute;
+    top: 0px;
+    bottom: 100px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
 }
 
 h1 {
   font-weight: normal;
-  color: #FEFFFA;
+  color: #414141;
   position: relative;
   text-align: center;
   horizontal-align: middle;
@@ -32,19 +33,20 @@ h1 {
 }
 
 .main {
-  display: inline-block;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #232328;
-  position: relative;
-  top: -100px;
-  width: 770px;
-  height: 600px;
-  left: -200px;
-  right: 0px;
-  margin: auto;
-  background-color: #18181D;
-  text-align: center;
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e0e0e0;
+    position: relative;
+    top: -100px;
+    width: 770px;
+    height: 600px;
+    left: -200px;
+    right: 0px;
+    margin: auto;
+    background-color: #ffffff;
+    text-align: center;
+    box-shadow: inset 0 1px 2px rgb(65 65 65 / 10%);
 }
 
 .image-wrapper {
@@ -126,7 +128,7 @@ nav {
   display: inline-block;
   vertical-align: middle;
   horizontal-align: middle;
-  color: #BFBFBF;
+  color: #414241;
   font-size: 20px;
   text-align: center;
   left= 50%;
@@ -140,7 +142,7 @@ ul {
   horizontal-align: middle;
   text-align: center;
   height: 100%;
-  border-color: #232328;
+  border-color: #bdbdbd;
   border-right-width: 1px;
   border-right-style: solid;
   padding: 10px 25px;
@@ -163,7 +165,7 @@ ul > li:first-of-type{
 
 ul > li > a {
   text-decoration:none;
-  color: #adadad;
+  color: #787878;
   transition: all 0.8s;
 }
 
@@ -185,4 +187,20 @@ ul[class=red] > li > a:hover {
 ul[class=yellow] > li > a:hover {
   color: #edd934;
   transition: all 0.5s;
+}
+
+ul.blue {
+    color: #70c8ed;
+}
+
+ul.green {
+    color: #f46592;
+}
+
+ul.red {
+    color: #8c7dd0;
+}
+
+ul.yellow {
+    color: #ffc46c;
 }
