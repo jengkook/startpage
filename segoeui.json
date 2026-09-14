@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Segoe UI",
+    "previewText": "Segoe UI",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-Bold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-BoldItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-ExtraBold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-ExtraBoldItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-Medium": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-MediumItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-Normal": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-NormalItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-Semibold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggsans-SemiboldItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "NotoSans-Bold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "NotoSans-ExtraBold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "NotoSans-Medium": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "NotoSans-Normal": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "NotoSans-NormalItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "NotoSans-Semibold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
+        "ggmono-Normal": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf"
+    }
+}
