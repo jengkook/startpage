@@ -11,8 +11,8 @@
         "ggsans-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
         "ggsans-ExtraBoldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
 
-        "ggsans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semilight.ttf",
-        "ggsans-MediumItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semilight.ttf",
+        "ggsans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
+        "ggsans-MediumItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
 
         "ggsans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
         "ggsans-NormalItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
@@ -22,8 +22,8 @@
 
         "NotoSans-Bold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
         "NotoSans-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
-        "NotoSans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semilight.ttf",
-        "NotoSans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
+        "NotoSans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semibold.ttf",
+        "NotoSans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semibold.ttf",
         "NotoSans-NormalItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
         "NotoSans-Semibold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semibold.ttf",
 
