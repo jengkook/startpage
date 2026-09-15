@@ -1,25 +1,28 @@
 {
     "spec": 1,
-    "name": "Segoe UI",
-    "previewText": "Segoe UI",
+    "name": "Segoe UI Variable",
+    "previewText": "Segoe UI Variable",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-Bold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-BoldItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-ExtraBold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-ExtraBoldItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-Medium": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-MediumItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-Normal": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-NormalItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-Semibold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggsans-SemiboldItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "NotoSans-Bold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "NotoSans-ExtraBold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "NotoSans-Medium": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "NotoSans-Normal": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "NotoSans-NormalItalic": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "NotoSans-Semibold": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf",
-        "ggmono-Normal": "https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf"
+        "ABCGintoNord-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+
+        "ggsans-Bold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-BoldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-MediumItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-NormalItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-Semibold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+
+        "NotoSans-Bold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "NotoSans-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "NotoSans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "NotoSans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "NotoSans-NormalItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "NotoSans-Semibold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+
+        "ggmono-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf"
     }
 }
