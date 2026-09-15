@@ -1,0 +1,21 @@
+{
+    "spec": 2,
+    "name": "Custom Background",
+    "description": "Custom animated chat background with Solar icons",
+    "authors": [
+        {
+            "name": "jengkook",
+            "id": "0"
+        }
+    ],
+    "background": {
+        "url": "https://files.catbox.moe/m3bft3.gif",
+        "alpha": 0.15,
+        "size": "cover",
+        "position": "100% 100%"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "solar"
+    }
+}
