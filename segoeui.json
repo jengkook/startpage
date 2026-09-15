@@ -1,28 +1,32 @@
 {
     "spec": 1,
-    "name": "Segoe UI Variable",
-    "previewText": "Segoe UI Variable",
+    "name": "Segoe UI",
+    "previewText": "Segoe UI",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ABCGintoNord-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
 
-        "ggsans-Bold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-BoldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-ExtraBoldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-MediumItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-NormalItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-Semibold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-Bold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
 
-        "NotoSans-Bold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "NotoSans-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "NotoSans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "NotoSans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "NotoSans-NormalItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
-        "NotoSans-Semibold": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf",
+        "ggsans-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
 
-        "ggmono-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/SegoeUI-VF.ttf"
+        "ggsans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semilight.ttf",
+        "ggsans-MediumItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semilight.ttf",
+
+        "ggsans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
+        "ggsans-NormalItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
+
+        "ggsans-Semibold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semibold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semibold.ttf",
+
+        "NotoSans-Bold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Bold.ttf",
+        "NotoSans-Medium": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semilight.ttf",
+        "NotoSans-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
+        "NotoSans-NormalItalic": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text.ttf",
+        "NotoSans-Semibold": "https://github.com/jengkook/startpage/raw/refs/heads/master/fonts/Segoe-UI-Variable-Static-Text-Semibold.ttf",
+
+        "ggmono-Normal": "https://github.com/jengkook/startpage/raw/refs/heads/master/SFMono.ttf"
     }
 }
